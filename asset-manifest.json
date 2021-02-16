@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/themesquare/static/css/main.4a9c3f48.chunk.css",
+    "main.js": "/themesquare/static/js/main.e880fe6a.chunk.js",
+    "main.js.map": "/themesquare/static/js/main.e880fe6a.chunk.js.map",
+    "runtime-main.js": "/themesquare/static/js/runtime-main.8b6d02d4.js",
+    "runtime-main.js.map": "/themesquare/static/js/runtime-main.8b6d02d4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/themesquare/static/css/2.31461e4f.chunk.css",
+    "static/js/2.4e99249b.chunk.js": "/themesquare/static/js/2.4e99249b.chunk.js",
+    "static/js/2.4e99249b.chunk.js.map": "/themesquare/static/js/2.4e99249b.chunk.js.map",
+    "static/js/3.8418b31b.chunk.js": "/themesquare/static/js/3.8418b31b.chunk.js",
+    "static/js/3.8418b31b.chunk.js.map": "/themesquare/static/js/3.8418b31b.chunk.js.map",
+    "index.html": "/themesquare/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/themesquare/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4a9c3f48.chunk.css.map": "/themesquare/static/css/main.4a9c3f48.chunk.css.map",
+    "static/js/2.4e99249b.chunk.js.LICENSE.txt": "/themesquare/static/js/2.4e99249b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/themesquare/static/media/Candy Shop.b1b53aab.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b6d02d4.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.4e99249b.chunk.js",
+    "static/css/main.4a9c3f48.chunk.css",
+    "static/js/main.e880fe6a.chunk.js"
+  ]
+}

@@ -1,0 +1,52 @@
+/////// DEPLOYMENT TO GITHUB/////
+
+/*
+
+//// TO DEPLOY TO GITHUB PAGES YOU MUST ///
+
+
+STEP 1
+
+
+RUN COMMAND 
+
+!!! install gh-pages !!!
+
+STEP 2 
+
+ADD DEPLOY SCRIPT TO YOUR PACKAGES.JSON FILE
+
+
+"predeploy": "npm run build"
+"deploy": "gh-pages -d build",
+
+
+
+
+STEP 3
+ADD GITHUB HOMEPAGES(Your github username)
+
+"homepage":"https:///EzikeChris.github.io/themesquare"
+
+
+
+STEP 4
+
+RUN COMMAND 
+
+npm run deploy;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
